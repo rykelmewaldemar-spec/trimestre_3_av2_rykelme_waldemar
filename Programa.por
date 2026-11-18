@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-
+  menuPrincipal()
   }
 
 
@@ -20,7 +20,4 @@ programa {
   }
     
   
-
-
-
 }
